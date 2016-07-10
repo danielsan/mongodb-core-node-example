@@ -1,0 +1,22 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "My first project",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/danielsan/mongodb-core-node-example.git"
+  },
+  "dependencies": {
+    "mongodb-core": "^2.0.3"
+  },
+  "author": "Christian Kvalheim",
+  "contributors": [
+    {"name":"Daniel Santana", "url": "https://github.com/danielsan"}
+  ],
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/danielsan/mongodb-core-node-example/issues"
+  },
+  "homepage": "https://github.com/danielsan/mongodb-core-node-example"
+}
